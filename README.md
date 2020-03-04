@@ -1,2 +1,3 @@
-# game-suwit-jawa
-Game suwit jawa menggunak javascript
+# game-rock-paper-scissors
+Game rock paper scissors with javascript DOM
+
